@@ -27,6 +27,7 @@ import sys
 # - Human-like behavior is simulated within this script (e.g., scrolling, mouse movement).
 
 It's run through run_suss_information.sh
+The CSV file is in /result/suss_courses.csv.
 Finally, the data in these CSV files is visualized using the suss_data_analysis.ipynb notebook.
 """
 def selium_config():
